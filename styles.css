@@ -1,0 +1,210 @@
+
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.first{
+  background: #EAF6F6;
+
+
+}
+
+.middle {
+  background-color: #f8eded;
+
+
+}
+
+.bottoms {
+background: #66BFBF;
+padding: 50px 0 30px ;
+}
+
+
+a{
+  color: #11999E;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+
+a:hover {
+  color: #EAF6F6;
+}
+
+
+h1  {
+  color: #66BFBF;
+  font-size: 80px;
+  line-height: 2s;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 120px;
+ font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2rem;
+  font-weight: normal;
+  font-family: 'Sacramento', cursive;
+
+
+
+}
+
+h3{
+    color: #11999E;
+}
+
+.first-cloud{
+  position: absolute;
+  right: 240px;
+  top: 5px;
+  width: 190px;
+height: 70px;
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  top: 310px;
+  left: 260px;
+  width: 180px;
+height: 60px;
+}
+
+
+.mountains{
+  width: 500px;
+    height: 400px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    margin-top: 0px;
+
+}
+
+
+.hills{
+  width: 300px;
+  height: 300px;
+}
+
+
+img{
+  height: 150px;
+  width: 150px;
+  margin: 50px 0px 40px 0px;
+}
+
+
+hr {
+  width: 3%;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: white;
+
+}
+
+
+p {
+  line-height: 25px;
+}
+
+
+.skills {
+  margin: 50px 0px 0px 0px;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto ;
+  text-align: left;
+  margin-bottom: 120px;
+}
+
+
+.skill-1  {
+  height: 150px;
+  width: 150px;
+  float: left;
+   padding-right: 30px;
+  margin-top: 0px;
+}
+
+
+.skills-2  {
+  height: 150px;
+  width: 150px;
+  float: right;
+   padding-left: 30px;
+
+  margin-top: 0px;
+}
+
+
+.btn{
+  color: #11999E;
+}
+
+
+.footer-link{
+  color: #11999E;
+}
+
+
+
+.first-para {
+  margin: 0px auto 50px ;
+  width: 30%
+
+}
+
+
+
+.contact-me {
+  width: 40%
+  margin:auto;
+}
+
+
+.getInTouch {
+  padding: 20px 0px;
+}
+
+.myButton {
+	background:linear-gradient(to bottom, #38adad 5%, #288585 100%);
+	background-color:#38adad;
+	border-radius:25px;
+	border:1px solid #718273;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Times New Roman;
+	font-size:16px;
+	font-weight:bold;
+	padding:14px 25px;
+	text-decoration:none;
+	text-shadow:0px 2px 3px #2f6627;
+  margin: 40px 0px 60px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #288585 5%, #38adad 100%);
+	background-color:#288585;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+.copyright  {
+  font-size: 10px;
+  padding-top: 20px;
+}
